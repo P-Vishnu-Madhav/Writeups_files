@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="2130837504" />
+    <public type="layout" name="activity_main" id="2130903040" />
+    <public type="dimen" name="activity_horizontal_margin" id="2130968576" />
+    <public type="dimen" name="activity_vertical_margin" id="2130968577" />
+    <public type="string" name="app_name" id="2131034112" />
+    <public type="string" name="hello_world" id="2131034113" />
+    <public type="string" name="action_settings" id="2131034114" />
+    <public type="style" name="AppBaseTheme" id="2131099648" />
+    <public type="style" name="AppTheme" id="2131099649" />
+    <public type="menu" name="main" id="2131165184" />
+    <public type="id" name="edit_message" id="2131230720" />
+    <public type="id" name="Btn" id="2131230721" />
+    <public type="id" name="text_id" id="2131230722" />
+    <public type="id" name="action_settings" id="2131230723" />
+</resources>
